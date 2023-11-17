@@ -1,0 +1,17 @@
+--------------------------------
+Libro de Python:
+
+https://www.learnpythonwithjupyter.com/
+
+--------------------------------
+Notebooks español:
+
+https://github.com/incognia/Notebooks
+
+----------------
+Youtube Videos:
+
+https://www.youtube.com/watch?v=IimBRwHhW54
+https://www.youtube.com/watch?v=WatTqrq8kQQ
+https://www.youtube.com/watch?v=PpLtEo3TvFw
+
